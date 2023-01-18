@@ -2,10 +2,14 @@
 //
 
 #include <iostream>
+#include "Account.h"
+#include "Holder.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Welcome to the bank!\n";
+
+    std::cout << "Choose an Option: \n 1: Create a Holder";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
