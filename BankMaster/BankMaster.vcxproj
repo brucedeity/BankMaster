@@ -130,10 +130,12 @@
     <ClCompile Include="Account.cpp" />
     <ClCompile Include="BankMaster.cpp" />
     <ClCompile Include="Holder.cpp" />
+    <ClCompile Include="InputHandler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Account.h" />
     <ClInclude Include="Holder.h" />
+    <ClInclude Include="InputHandler.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
